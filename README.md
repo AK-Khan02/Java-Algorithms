@@ -1,6 +1,3 @@
-
-### Java Algorithms
-
 # Java Algorithms
 
 ## About
